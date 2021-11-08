@@ -1,0 +1,22 @@
+.favoriteComic {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+.comicTitle {
+  color: white;
+  font-weight: 600;
+  font-size: 1vw;
+}
+.comicCover {
+  width: 100%;
+  cursor: pointer;
+}
+.closeBtn {
+  width: 15px;
+  background-color: white;
+  position: relative;
+  left: 95%;
+  top: 3%;
+  cursor: pointer;
+}

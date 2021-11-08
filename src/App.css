@@ -2,9 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Dashboard {
+  display: flex;
+  padding-top: "10px";
 }
 
 @media (prefers-reduced-motion: no-preference) {

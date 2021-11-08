@@ -1,0 +1,33 @@
+.FavSection {
+  background-color: rgb(0, 0, 0, 0.4);
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  height: 1800px;
+  overflow-y: auto;
+}
+.Header {
+  font-weight: 500;
+  display: flex;
+}
+.favorite {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: flex-start;
+}
+.favHeader {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+}
